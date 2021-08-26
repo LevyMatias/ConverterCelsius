@@ -1,4 +1,4 @@
-## Conversor De Temperatura :partly_sunnny:
+## Conversor De Temperatura :partly_sunny:
 
 ### Programa simples para converter temperatura de celsius ℃ para:
 
